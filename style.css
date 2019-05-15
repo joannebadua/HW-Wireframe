@@ -4,13 +4,17 @@ body {
     background: '#777';
     width: '960px';
     font-size: '18px';
+    margin: 0 auto; 
 }
+
 header {
     background: '#ebebeb';
+    padding: 20px;
 }
 
 nav {
     background: '#ebebeb';
+    padding: 20px;
 }
 section {
     background: '#ebebeb';
@@ -23,7 +27,11 @@ article {
 
 h1 {
     color: '#777';
-    background: '#ebebeb'
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    background: #ebebeb;
+   
 }
 
 p {
@@ -35,5 +43,6 @@ aside {
 }
 
 footer {    
-    
+    padding: 20px;
+    background: '#ebebeb';
 }
