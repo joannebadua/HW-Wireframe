@@ -8,13 +8,19 @@ body {
 }
 
 header {
-    background: '#ebebeb';
+    background: #777;
     padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 90%;
+    text-align: center;
 }
 
 nav {
     background: '#ebebeb';
     padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 section {
     background: '#ebebeb';
@@ -23,11 +29,11 @@ section {
 article {
     color: '#ebebeb';
     background: '#777';
+    
 }
 
 h1 {
     color: '#777';
-    position: absolute;
     width: 150px;
     height: 150px;
     background: #ebebeb;
@@ -45,4 +51,6 @@ aside {
 footer {    
     padding: 20px;
     background: '#ebebeb';
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
