@@ -21,9 +21,13 @@ nav {
     padding: 20px;
     margin-top: 20px;
     margin-bottom: 20px;
+    width: 90%;
+    text-align: center;
 }
 section {
     background: #ebebeb;
+    width: 50%;
+    padding: 60px;
 }
 
 article {
@@ -41,11 +45,17 @@ h1 {
 }
 
 p {
+    color: #777;
+    width: 150px;
+    height: 150px;
+    background: #ebebeb;
 
 }
 
 aside {
-
+    background: #ebebeb;
+    width: 50%;
+    padding: 60px;
 }
 
 footer {    
@@ -53,4 +63,6 @@ footer {
     background: #ebebeb;
     margin-top: 20px;
     margin-bottom: 20px;
+    text-align: center;
+    width: 90%;
 }
