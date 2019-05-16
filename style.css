@@ -8,6 +8,19 @@
 *, *::after, *::before {
     box-sizing: border-box;
 }
+
+* {
+    box-sizing: border-box;
+    text-align: center;
+  }
+  
+  body {
+    font-size: 24px;
+    line-height: 32px;
+    color: #333;
+    background: #777;
+  }
+  
 .container {
     /*When you have specified a width on the object that you have applied margin: 0 auto to, the object will sit centrally within it's parent container.*/
     /*The first parameter 0 indicates that the top and bottom margins will both be set to 0.*/
@@ -17,17 +30,17 @@
     width: 1000px;
     color: #777;
     background: #777;
-    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
     font-size: 18px;
 }
 
 header {
     background: #ebebeb;
     padding: 30px;
-    margin-top: 20px;
-    margin-bottom: 20px;
+    margin-top: 5px;
     width: 90%;
     text-align: center;
+    clear: both;
 }
 
 nav {
@@ -37,6 +50,7 @@ nav {
     margin-bottom: 20px;
     width: 90%;
     text-align: center;
+    clear: both;
 }
 
 section  {
@@ -44,9 +58,10 @@ section  {
     padding: 30px;
     margin-top: 20px;
     margin-bottom: 20px;
-    width: 90%;
+    width: 200px;
     text-align: center;
 }
+
 article {
     background-color: #777;
     width: 200px;
@@ -87,4 +102,5 @@ footer {
     margin-bottom: 20px;
     text-align: center;
     width: 90%;
+    clear: both;
 }
