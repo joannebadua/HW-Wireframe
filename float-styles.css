@@ -1,17 +1,17 @@
 /*See https://www.w3schools.com/cssref/pr_class_float.asp*/
 /*left	The element floats to the left of its container*/
 /*right	The element floats the right of its container*/
-.clearfix::after {
+/* .clearfix::after {
     content: " ";
     display: block;
     clear: both;
   }
   
-  aside {
+  section {
     float: left;
   }
   
-  article {
+  aside {
     float: left;
-  }
+  } */
   
