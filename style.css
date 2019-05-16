@@ -25,6 +25,7 @@ nav {
     text-align: center;
 }
 section {
+    float: left;
     background: #ebebeb;
     width: 50%;
     padding: 60px;
@@ -56,6 +57,9 @@ aside {
     background: #ebebeb;
     width: 50%;
     padding: 60px;
+    float: right;
+    margin-right: 20px;
+    clear: both;
 }
 
 footer {    
