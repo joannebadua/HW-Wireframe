@@ -58,26 +58,29 @@ section  {
 
 article {
     background-color: #777;
-    width: 200px;
+    width: 450px;
     height: 200px;
     padding: 30px;
     border: 1px solid white;
     
 }
 
-h1 {
+#h1 {
     color: #777;
     width: 150px;
-    height: 150px;
+    height: 20px;
     background: #ebebeb;
+    margin: 7px;
    
 }
 
-p {
+#p {
     color: #777;
     width: 150px;
-    height: 150px;
+    height: 20px;
     background: #ebebeb;
+    margin: 7px;
+    /* we included margin in h1 and p to separate */
 
 }
 
