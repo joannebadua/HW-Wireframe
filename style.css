@@ -48,9 +48,9 @@ section  {
     text-align: center;
 }
 article {
-    background-color: #1D88E5;
+    background-color: #777;
     width: 200px;
-    height: 400px;
+    height: 200px;
     padding: 10px;
     border: 1px solid white;
     
@@ -73,9 +73,9 @@ p {
 }
 
 aside {
-    background-color: #1D88E5;
+    background-color: #ebebeb;
     width: 200px;
-    height: 400px;
+    height: 200px;
     padding: 10px;
     border: 1px solid white;
 }
