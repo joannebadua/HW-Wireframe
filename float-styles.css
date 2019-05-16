@@ -8,10 +8,10 @@
   }
   
   aside {
-    float: left;
+    float: right;
   }
   
-  main {
+  article {
     float: left;
   }
   
