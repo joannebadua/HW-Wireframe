@@ -39,9 +39,20 @@ nav {
     text-align: center;
 }
 
+section {
+    background: #ebebeb;
+    padding: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 90%;
+    text-align: center;
+}
 article {
-    color: #ebebeb;
-    background: #777;
+    background-color: #1D88E5;
+    width: 700px;
+    height: 400px;
+    padding: 10px;
+    border: 1px solid white;
     
 }
 
@@ -62,12 +73,11 @@ p {
 }
 
 aside {
-    background: #ebebeb;
-    width: 50%;
-    padding: 60px;
-    float: left;
-    margin-right: -50px;
-    clear: both;
+    background-color: #1D88E5;
+    width: 700px;
+    height: 400px;
+    padding: 10px;
+    border: 1px solid white;
 }
 
 footer {    
