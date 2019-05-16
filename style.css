@@ -24,14 +24,14 @@ nav {
     width: 90%;
     text-align: center;
 }
-section {
+#section {
     float: left;
     background: #ebebeb;
     width: 50%;
     padding: 60px;
 }
 
-article {
+#article {
     color: #ebebeb;
     background: #777;
     
@@ -53,12 +53,12 @@ p {
 
 }
 
-aside {
+#aside {
     background: #ebebeb;
     width: 50%;
     padding: 60px;
-    float: right;
-    margin-right: 20px;
+    float: left;
+    margin-right: -50px;
     clear: both;
 }
 
