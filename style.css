@@ -58,31 +58,33 @@ section  {
 
 article {
     background-color: #777;
-    color: #ebebeb;
     width: 450px;
-    height: 400px;
+    height: 250px;
     padding: 30px;
     border: 1px solid white;
     margin-top: 20px;
+    color: #ebebeb;
     
 }
 
 #h1 {
     color: #777;
     width: 400px;
-    height: 20px;
+    height: 30px;
     background: #ebebeb;
     margin-top: 20px;
     padding: 30px;
+    font-weight: bolder
    
 }
 
 #p {
     color: #777;
-    width: 0px;
-    height: 20px;
+    width: 400px;
+    height: 30px;
     background: #ebebeb;
-    margin-top: 50px;
+    margin-top: 10px;
+    padding: 30px;
     /* we included margin in h1 and p to separate */
 
 }
@@ -92,7 +94,7 @@ aside {
     float: left;
     background-color: #ebebeb;
     width: 450px;
-    height: 400px;
+    height: 350px;
     padding: 30px;
     /* this deals with the padding surrounding the lettering */
     border: 1px solid white;
